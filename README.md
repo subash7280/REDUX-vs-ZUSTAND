@@ -16,6 +16,4 @@ Code designed for easy understanding and experimentation
 
 👨‍💻 Perfect for developers evaluating Redux vs Zustand or learning modern state management in React.
 
-🔗 Live Preview: redux-vs-zustand.vercel.app
-
-#redux #zustand #react #state-management
+🔗 Live Preview: [https://redux-vs-zustand.vercel.app]([url](https://redux-vs-zustand.vercel.app/))
